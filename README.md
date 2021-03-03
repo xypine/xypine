@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [jonnelafin.github.io](https://jonnelafin.github.io)
 
 ### Contact
-[email me](mailto:elias.eskelinen@protonmail.com)
-
 Discord: Jonnelafin#5276
+
+[email me](mailto:elias.eskelinen@protonmail.com)
 
 ### Stats
 <img src="https://komarev.com/ghpvc/?username=jonnelafin&color=ff69b4"/>
