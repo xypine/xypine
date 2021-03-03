@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **jonnelafin/jonnelafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Links
+[jonnelafin.github.io](https://jonnelafin.github.io)
+
+### Contact
+[email me](mailto:elias.eskelinen@protonmail.com)
+
+Discord: Jonnelafin#5276
+
+### Stats
+<img src="https://komarev.com/ghpvc/?username=jonnelafin&color=ff69b4"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
