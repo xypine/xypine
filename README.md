@@ -26,4 +26,4 @@ Discord: Jonnelafin#5276
 ### Stats
 <img src="https://komarev.com/ghpvc/?username=jonnelafin&color=ff69b4"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
+<img style="max-width: 37.3% !important" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/>
