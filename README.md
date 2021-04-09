@@ -26,8 +26,8 @@ Discord: Jonnelafin#5276
 ### Stats
 
 <!--![Jonnelafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnelafin&show_icons=true&theme=radical) -->
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark) 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=github_dark) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonnelafin&theme=github_dark) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonnelafin&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonnelafin&theme=github_dark) 
 
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues"/>
 <img style="max-width: 37.3% !important" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnelafin&&show_icons=true&theme=tokyonight&count_private=true&layout=compact"/> -->
