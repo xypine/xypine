@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Contact
 Discord: Jonnelafin#5276
 
-[email me](mailto:elias.eskelinen@protonmail.com)
+[email me](mailto:elias.eskelinen@protonmail.com) (elias.eskelinen@protonmail.com)
 
 ### Stats
 
