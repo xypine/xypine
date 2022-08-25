@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [xypine.github.io](https://xypine.github.io)
 
 ### Contact
-Discord: Jonnelafin#5276
+Discord: xypine#5276
 
 [email me](mailto:elias.eskelinen@protonmail.com) (elias.eskelinen@protonmail.com)
 
